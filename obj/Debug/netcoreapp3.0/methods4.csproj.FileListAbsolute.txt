@@ -1,0 +1,11 @@
+/Users/polinavolodina/Documents/methods4/bin/Debug/netcoreapp3.0/methods4
+/Users/polinavolodina/Documents/methods4/bin/Debug/netcoreapp3.0/methods4.deps.json
+/Users/polinavolodina/Documents/methods4/bin/Debug/netcoreapp3.0/methods4.runtimeconfig.json
+/Users/polinavolodina/Documents/methods4/bin/Debug/netcoreapp3.0/methods4.runtimeconfig.dev.json
+/Users/polinavolodina/Documents/methods4/bin/Debug/netcoreapp3.0/methods4.dll
+/Users/polinavolodina/Documents/methods4/bin/Debug/netcoreapp3.0/methods4.pdb
+/Users/polinavolodina/Documents/methods4/obj/Debug/netcoreapp3.0/methods4.csprojAssemblyReference.cache
+/Users/polinavolodina/Documents/methods4/obj/Debug/netcoreapp3.0/methods4.AssemblyInfoInputs.cache
+/Users/polinavolodina/Documents/methods4/obj/Debug/netcoreapp3.0/methods4.AssemblyInfo.cs
+/Users/polinavolodina/Documents/methods4/obj/Debug/netcoreapp3.0/methods4.dll
+/Users/polinavolodina/Documents/methods4/obj/Debug/netcoreapp3.0/methods4.pdb
